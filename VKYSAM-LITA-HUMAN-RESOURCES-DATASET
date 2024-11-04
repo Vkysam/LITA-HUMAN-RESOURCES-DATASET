@@ -1,11 +1,28 @@
 ### HUMAN RESOURCES DATASET ANALYSIS
 ---
 
+### OVERVIEW
+---
+The dataset contains records of Staff, Attrition, Age Category, region, months, years of service. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
+---
+
+[Goal](#goal)
+[Overview](#overview)
+[Data Sources](#Data-Sources)
+[Technology Used](#Technology-Used)
+[Tools Used](#Tools-Used)
+[Skills](#Skills)
+[Data Cleaning and Preparations](#Data-Cleaning-and-Preparations)
+[Exploratoratory Data Analysis](#Exploratoratory-Data-Analysis)
+[Data Analysis](#Data-Analysis)
+[Data Visualization](#Data-Visualization)
+
+
 ### GOAL 
 ---
 To examine the Attrition of both current and past staff, find the leach and device a sustanable strength for growth and stability
 
-### DESCRIPTION
+### OVERVIEW
 ---
 The dataset contains records of Staff, Attrition, Age Category, region, months, years of service. This project includes the following steps: data loading, data cleaning and preprocessing and EDA (exploratory data analysis).
 
